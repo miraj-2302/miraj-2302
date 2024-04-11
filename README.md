@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miraj-2302" alt="miraj-2302" /></a> </p>
 
+- 🔭 I’m currently working on [https://www.sotbizz.com/](https://www.sotbizz.com/)
+
+- 👨‍💻 All of my projects are available at [https://mirajportfolio.netlify.app/](https://mirajportfolio.netlify.app/)
+
+- 📫 How to reach me **mdmiraj.mern.bd@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
